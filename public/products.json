@@ -1,0 +1,316 @@
+[
+    {
+      "id": 1,
+      "image": "https://i.ibb.co/frY7m8j/product3.jpg",
+      "title": "Modern Ergonomic Chair",
+      "description": "A premium executive chair made from genuine leather, offering maximum comfort",
+      "price": 199.99,
+      "category": "Rocking chair "
+    },
+    {
+      "id": 2,
+      "image": "https://i.ibb.co/7vRvj06/product2.jpg",
+      "title": "Executive Leather Chair",
+      "description": "A premium executive chair made from genuine leather, offering maximum comfort and style.",
+      "price": 299.99,
+      "category": "Rocking chair"
+    },
+    {
+      "id": 3,
+      "image": "https://i.ibb.co/frY7m8j/product3.jpg",
+      "title": "Mid-Century Modern Chair",
+      "description": "Inspired by mid-century design, this chair adds a retro touch to any room.",
+      "price": 149.99,
+      "category": "Rocking chair"
+    },
+    {
+      "id": 4,
+      "image": "https://i.ibb.co/gW3SkQh/product4.jpg",
+      "title": "Reclining Gaming Chair",
+      "description": "A reclining gaming chair with adjustable features for maximum comfort during long gaming sessions.",
+      "price": 259.99,
+      "category": "Rocking chair"
+    },
+    {
+      "id": 5,
+      "image": "https://i.ibb.co/K0Y5FWG/products5.jpg",
+      "title": "Classic Wooden Dining Chair",
+      "description": "A simple and elegant wooden dining chair that fits seamlessly with any dining table.",
+      "price": 89.99,
+      "category": "Side chair"
+    },
+    {
+      "id": 6,
+      "image": "https://i.ibb.co/nbWy1fN/product6.jpg",
+      "title": "Outdoor Folding Chair",
+      "description": "A lightweight and foldable chair ideal for outdoor use, perfect for camping and picnics.",
+      "price": 59.99,
+      "category": "Rocking chair "
+    },
+    {
+      "id": 7,
+      "image": "https://i.ibb.co/njq3SJX/product7.jpg",
+      "title": "Luxury Velvet  Chair",
+      "description": "A luxurious velvet accent chair, adding a touch of elegance to any chair",
+      "price": 229.99,
+      "category": "Rocking chair "
+    },
+    {
+      "id": 8,
+      "image": "https://i.ibb.co/gSYnRqz/product8.jpg",
+      "title": "Adjustable Bar Stool",
+      "description": "A modern bar stool with adjustable height, perfect for kitchen islands or bar counters.",
+      "price": 129.99,
+      "category": "Rocking chair"
+    },
+    {
+      "id": 9,
+      "image": "https://i.ibb.co/gW3SkQh/product4.jpg",
+      "title": "Kids' Study Chair",
+      "description": "A colorful and ergonomic chair designed for children, perfect for studying or play.",
+      "price": 79.99,
+      "category": "Side chair"
+    },
+    {
+      "id": 10,
+      "image": "https://i.ibb.co/tM4XfLR/product10.jpg",
+      "title": "Rocking Chair with Cushions",
+      "description": "A comfortable rocking chair with soft cushions, ideal ",
+      "price": 189.99,
+      "category": "Side chair"
+    },
+    {
+      "id": 11,
+      "image": "https://i.ibb.co/wp6mMB5/product11.jpg",
+      "title": "Swivel Office Chair",
+      "description": "A practical swivel chair with adjustable height and lumbar support for office use.",
+      "price": 179.99,
+      "category": "Longer Chair"
+    },
+    {
+      "id": 12,
+      "image": "https://i.ibb.co/gPjQ1Ny/product12.jpg",
+      "title": "Rustic Wooden Chair",
+      "description": "A rustic wooden chair that brings a cozy, farmhouse feel to your dining area.",
+      "price": 99.99,
+      "category": "Longer Chair"
+    },
+    {
+      "id": 13,
+      "image": "https://i.ibb.co/GvS7GWH/product14.jpg",
+      "title": "Bean Bag Chair",
+      "description": "A soft and comfy bean bag chair, perfect for lounging in any casual setting.",
+      "price": 49.99,
+      "category": "Longer Chair"
+    },
+    {
+      "id": 14,
+      "image": "https://i.ibb.co/Qrywycv/product15.jpg",
+      "title": "Recliner Sofa Chair",
+      "description": "A plush recliner chair with soft fabric, ideal for relaxing at home after a long day.",
+      "price": 349.99,
+      "category": "Longer Chair"
+    },
+    {
+      "id": 15,
+      "image": "https://i.ibb.co/tM4XfLR/product10.jpg",
+      "title": "Minimalist Desk Chair",
+      "description": "A minimalist desk chair with clean lines, designed for modern home offices.",
+      "price": 139.99,
+      "category": "Rocking chair "
+    },
+    {
+      "id": 16,
+      "image": "https://i.ibb.co/RTkH6Gz/product17.jpg",
+      "title": "Outdoor Lounge Chair",
+      "description": "A durable outdoor lounge chair with weather-resistant cushions, perfect for patios and gardens.",
+      "price": 299.99,
+      "category": "Side chair"
+    },
+    {
+      "id": 17,
+      "image": "https://i.ibb.co/8mdVnmx/product18.jpg",
+      "title": "High Back Task Chair",
+      "description": "A high-back task chair with ergonomic support and a breathable mesh back.",
+      "price": 169.99,
+      "category": "Side chair"
+    },
+    {
+      "id": 18,
+      "image": "https://i.ibb.co/k0mFjx1/product19.jpg",
+      "title": "Accent Tub Chair",
+      "description": "A stylish accent tub chair with curved arms and a cushioned seat for comfort.",
+      "price": 219.99,
+      "category": "Longer Chair"
+    },
+    {
+      "id": 19,
+      "image": "https://i.ibb.co/TWVVrt7/products5.jpg",
+      "title": "Industrial Metal Chair",
+      "description": "An industrial-style metal chair, perfect for adding a modern touch to your dining area.",
+      "price": 89.99,
+      "category": "Side chair"
+    },
+    {
+      "id": 20,
+      "image": "https://i.ibb.co/TWVVrt7/products5.jpg",
+      "title": "Luxury Reclining Chair",
+      "description": "A luxurious reclining chair with high-density foam cushions for ultimate relaxation.",
+      "price": 499.99,
+      "category": "Longer Chair"
+    },
+    {
+      "id": 21,
+      "image": "https://i.ibb.co/TWVVrt7/products5.jpg",
+      "title": "Mid-Back Mesh Chair",
+      "description": "A mid-back office chair with a mesh design for breathability and ergonomic support.",
+      "price": 139.99,
+      "category": "Rocking chair "
+    },
+    {
+      "id": 22,
+      "image": "https://i.ibb.co/k0mFjx1/product19.jpg",
+      "title": "Wicker Patio Chair",
+      "description": "A wicker patio chair with removable cushions, perfect for outdoor use.",
+      "price": 159.99,
+      "category": "Side chair"
+    },
+    {
+      "id": 23,
+      "image": "https://i.ibb.co/RTkH6Gz/product17.jpg",
+      "title": "Luxury Swivel Recliner",
+      "description": "A luxurious recliner chair with a 360-degree swivel function and padded armrests.",
+      "price": 459.99,
+      "category": "Side chair"
+    },
+    {
+      "id": 24,
+      "image": "https://i.ibb.co/RTkH6Gz/product17.jpg",
+      "title": "Classic Dining Chair",
+      "description": "A timeless dining chair with a padded seat and wooden frame.",
+      "price": 99.99,
+      "category": "Longer Chair"
+    },
+    {
+      "id": 25,
+      "image": "https://i.ibb.co/gW3SkQh/product4.jpg",
+      "title": "Foldable Camping Chair",
+      "description": "A lightweight and foldable camping chair, easy to carry and perfect for outdoor adventures.",
+      "price": 49.99,
+      "category": "Longer Chair"
+    },
+    {
+      "id": 26,
+      "image": "https://i.ibb.co/K0Y5FWG/products5.jpg",
+      "title": "Luxury Velvet Lounge Chair",
+      "description": "A luxurious velvet lounge chair with deep cushioning, perfect for relaxation.",
+      "price": 299.99,
+      "category": "Rocking chair "
+    },
+    {
+      "id": 27,
+      "image": "https://i.ibb.co/K0Y5FWG/products5.jpg",
+      "title": "Modern Dining Chair",
+      "description": "A sleek modern dining chair with a minimalist design and comfortable cushioning.",
+      "price": 119.99,
+      "category": "Side chair"
+    },
+    {
+      "id": 28,
+      "image": "https://i.ibb.co/gW3SkQh/product4.jpg",
+      "title": "Adjustable Height Stool",
+      "description": "An adjustable height stool with a sturdy frame and cushioned seat for comfort.",
+      "price": 79.99,
+      "category": "Longer Chair"
+    },
+    {
+      "id": 29,
+      "image": "https://i.ibb.co/tM4XfLR/product10.jpg",
+      "title": "Ergonomic Task Chair",
+      "description": "An ergonomic task chair with adjustable lumbar support and armrests for optimal comfort.",
+      "price": 189.99,
+      "category": "Rocking chair "
+    },
+    {
+      "id": 30,
+      "image": "https://i.ibb.co/tM4XfLR/product10.jpg",
+      "title": "Luxury Reclining Sofa Chair",
+      "description": "A luxurious reclining sofa chair with premium upholstery and soft cushioning.",
+      "price": 349.99,
+      "category": "Side chair"
+    },
+    {
+      "id": 31,
+      "image": "https://i.ibb.co/K0Y5FWG/products5.jpg",
+      "title": "High Back Executive Chair",
+      "description": "A high-back executive chair with leather upholstery and adjustable height.",
+      "price": 299.99,
+      "category": "Rocking chair "
+    },
+    {
+      "id": 32,
+      "image": "https://i.ibb.co/K0Y5FWG/products5.jpg",
+      "title": "Kids Bean Bag Chair",
+      "description": "A colorful bean bag chair designed for kids, perfect for playrooms and bedrooms.",
+      "price": 39.99,
+      "category": "Side chair"
+    },
+    {
+      "id": 33,
+      "image": "https://i.ibb.co/tM4XfLR/product10.jpg",
+      "title": "Wooden Rocking Chair",
+      "description": "A classic wooden rocking chair with a sturdy frame and comfortable seat.",
+      "price": 199.99,
+      "category": "Longer Chair"
+    },
+    {
+      "id": 34,
+      "image": "https://i.ibb.co/tM4XfLR/product10.jpg",
+      "title": "Ergonomic Kneeling Chair",
+      "description": "A unique ergonomic kneeling chair designed to promote good posture.",
+      "price": 149.99,
+      "category": "Side chair"
+    },
+    {
+      "id": 35,
+      "image": "https://i.ibb.co/gW3SkQh/product4.jpg",
+      "title": "Luxury Ottoman Chair",
+      "description": "A luxurious ottoman chair with deep cushioning and a modern design.",
+      "price": 249.99,
+      "category": "Longer Chair"
+    },
+    {
+      "id": 36,
+      "image": "https://i.ibb.co/tM4XfLR/product10.jpg",
+      "title": "Minimalist Lounge Chair",
+      "description": "A sleek and minimalist lounge chair, perfect for modern interiors.",
+      "price": 199.99,
+      "category": "Side chair"
+    },
+    {
+      "id": 37,
+      "image": "https://i.ibb.co/TWVVrt7/products5.jpg",
+      "title": "Comfortable Recliner Chair",
+      "description": "A soft and comfortable recliner chair with an adjustable backrest.",
+      "price": 279.99,
+      "category": "Longer Chair"
+    },
+    {
+      "id": 38,
+      "image": "https://i.ibb.co/TWVVrt7/products5.jpg",
+      "title": "Vintage Accent Chair",
+      "description": "A vintage-inspired accent chair with wooden legs and soft cushioning.",
+      "price": 159.99,
+      "category": "Side chair"
+    },
+    {
+      "id": 39,
+      "image": "https://i.ibb.co/TWVVrt7/products5.jpg",
+      "title": "Swivel Bar Stool",
+      "description": "A swivel bar stool with a cushioned seat and adjustable height.",
+      "price": 129.99,
+      "category": "Longer Chair"
+    }
+]
+     
+  
